@@ -1,4 +1,4 @@
-# CreatorAI — AI Copilot for Content Creators
+# Postify — AI Copilot for Content Creators
 
 **AI-powered assistant that generates, optimizes, and schedules social media content automatically across platforms.**
 
@@ -8,7 +8,7 @@
 Content creators face significant challenges in maintaining a consistent posting schedule. The manual effort required to brainstorm topics, write engaging captions, research hashtags, and generate high-quality visuals is a major bottleneck. Furthermore, adapting the same core message for different platforms (e.g., Instagram vs. LinkedIn) is time-consuming and reduces overall creative productivity.
 
 ## 💡 Proposed Solution
-CreatorAI is a comprehensive AI-powered web platform that streamlines the content creation lifecycle. By simply entering a topic or idea, creators receive a full suite of ready-to-post assets tailored for multiple social networks. The platform eliminates planning paralysis by automating the "heavy lifting" of content production and scheduling.
+Postify is a comprehensive AI-powered web platform that streamlines the content creation lifecycle. By simply entering a topic or idea, creators receive a full suite of ready-to-post assets tailored for multiple social networks. The platform eliminates planning paralysis by automating the "heavy lifting" of content production and scheduling.
 
 ## 🛠️ How it Works
 
@@ -51,7 +51,7 @@ CreatorAI is a comprehensive AI-powered web platform that streamlines the conten
 - **Deployment:** Cloud Hosting (AWS/Vercel)
 
 ## 🏆 Unique Selling Proposition
-CreatorAI is the only tool that combines **content generation, visual creation, and multi-platform scheduling** into a single, unified workflow. It allows creators to focus 100% on their creative vision while the AI handles the planning and distribution logic.
+Postify is the only tool that combines **content generation, visual creation, and multi-platform scheduling** into a single, unified workflow. It allows creators to focus 100% on their creative vision while the AI handles the planning and distribution logic.
 
 ## 🚀 Future Scope
 - **Trend Detection:** Real-time recommendations based on social media trends.
@@ -61,7 +61,7 @@ CreatorAI is the only tool that combines **content generation, visual creation, 
 ---
 
 ## 👥 Team Details
-- **Divy** - [AI_integration]
-- **Jiya** - [BackEnd_Dev]
-- **Nirmit** - [FrontEnd_Dev]
-- **Aahan** - [UI/UX_Designer]
+- **Divy** - AI_integration
+- **Jiya** - BackEnd_Dev
+- **Nirmit** - FrontEnd_Dev
+- **Aahan** - UI/UX_Designer

@@ -1,7 +1,7 @@
-# CreatorAI — Technical Design & Architecture
+# Postify — Technical Design & Architecture
 
 ## 1. System Overview
-CreatorAI is a cloud-based platform designed to automate social media content management. The system is architected to handle complex AI content generation and asynchronous image processing while maintaining a responsive user interface. It bridges the gap between raw creative ideas and platform-ready social media assets through a structured orchestration of Large Language Models (LLMs) and Image Generation APIs.
+Postify is a cloud-based platform designed to automate social media content management. The system is architected to handle complex AI content generation and asynchronous image processing while maintaining a responsive user interface. It bridges the gap between raw creative ideas and platform-ready social media assets through a structured orchestration of Large Language Models (LLMs) and Image Generation APIs.
 
 ## 2. High-Level Architecture
 The system follows a classic **Three-Tier Architecture** for scalability and separation of concerns.
