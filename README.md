@@ -60,7 +60,7 @@ CreatorAI is the only tool that combines **content generation, visual creation, 
 
 ---
 
-## 👥 Team DetailIs
+## 👥 Team Details
 - **Divy** - [AI_integration]
 - **Jiya** - [BackEnd_Dev]
 - **Nirmit** - [FrontEnd_Dev]
