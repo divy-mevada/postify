@@ -2,6 +2,7 @@
 
 **AI-powered assistant that generates, optimizes, and schedules social media content automatically across platforms.**
 
+Postify architecture is designed to solve multi-platform content creation bottlenecks using scalable AI orchestration.
 ---
 
 ## 📌 Problem Statement
@@ -11,6 +12,9 @@ Content creators face significant challenges in maintaining a consistent posting
 Postify is a comprehensive AI-powered web platform that streamlines the content creation lifecycle. By simply entering a topic or idea, creators receive a full suite of ready-to-post assets tailored for multiple social networks. The platform eliminates planning paralysis by automating the "heavy lifting" of content production and scheduling.
 
 ## 🛠️ How it Works
+
+### Simplified System Flow
+User submits idea → Backend processes request → AI generates content & visuals → Content stored → User schedules post.
 
 ### The Content Generation Pipeline
 ```text
@@ -42,6 +46,14 @@ Postify is a comprehensive AI-powered web platform that streamlines the content 
 - **Content Scheduling:** Integrated calendar system to automate future distribution.
 - **Post Management:** Save, edit, and organize all generated content in one dashboard.
 
+## Hackathon Implementation Scope
+During hackathon, focus is on:
+- AI content generation
+- Image generation
+- Basic scheduling
+- Post saving
+Advanced scaling features will be implemented later.
+
 ## 💻 Technology Stack
 - **Frontend:** React (State-driven UI)
 - **Backend:** Django / Flask (RESTful API orchestration)
@@ -68,4 +80,3 @@ Postify is the only tool that combines **content generation, visual creation, an
 
 ---
 
-**Built for AI for Bharat Hackathon - Problem Statement 2**
