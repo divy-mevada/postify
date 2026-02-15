@@ -4,11 +4,6 @@
 
 ### *Transform Ideas into Viral Content in Minutes*
 
-[![Made with AI](https://img.shields.io/badge/Made%20with-AI-blue?style=for-the-badge&logo=openai)](https://github.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
 **AI-powered assistant that generates, optimizes, analyzes, organizes, and schedules social media content automatically across platforms.**
 
 [Features](#-key-features) • [Tech Stack](#-technology-stack) • [Team](#-team-details)

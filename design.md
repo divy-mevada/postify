@@ -4,10 +4,6 @@
 
 ### *Comprehensive System Design Documentation*
 
-[![Architecture](https://img.shields.io/badge/Architecture-Three--Tier-blue?style=for-the-badge)](https://github.com)
-[![Scalable](https://img.shields.io/badge/Design-Scalable-green?style=for-the-badge)](https://github.com)
-[![Cloud Native](https://img.shields.io/badge/Deployment-Cloud_Native-orange?style=for-the-badge)](https://github.com)
-
 </div>
 
 ---
