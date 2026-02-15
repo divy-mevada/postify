@@ -153,6 +153,13 @@ sequenceDiagram
 </tr>
 </table>
 
+**ARCHIETECTURE DIAGRAM**
+<img width="3577" height="2811" alt="diagram-export-15-02-2026-22_17_52" src="https://github.com/user-attachments/assets/429df705-7a11-4d44-a4f0-8859b199a9eb" />
+
+**USERFLOW DIAGRAM**
+<img width="5117" height="2199" alt="diagram-export-15-02-2026-21_56_06" src="https://github.com/user-attachments/assets/6e117ae8-5844-4f50-8aaa-9e6cba0e9267" />
+
+
 ## 5. 🌐 API Endpoints Overview
 
 <div align="center">
