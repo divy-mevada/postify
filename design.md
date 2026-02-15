@@ -26,7 +26,7 @@ graph TD
     B -->|Query/Write| C[(Database: PostgreSQL)]
     B -->|Job Queue| D[Celery Worker]
     D -->|Request| E[AI APIs: Gemini/OpenAI]
-    D -->|Request| F[Image APIs: DALL-E/Stable Diffusion]
+    D -->|Request| F[Image APIs: Stable Diffusion/DeepAI]
     D -->|Schedule| G[Task Scheduler]
     E -.->|Result| D
     F -.->|Result| D
@@ -35,7 +35,7 @@ graph TD
 ## 3. Module Breakdown
 - **Core Orchestrator:** The primary backend module that manages the workflow from user input to final multi-platform variants.
 - **AI Adaptation Engine:** Specialized sub-module that translates a single prompt into specific formats optimized for Instagram, LinkedIn, YouTube, and Twitter/X.
-- **Visual Synthesis Module:** Interface for DALL-E/Stability APIs to generate, optimize, and store image assets.
+- **Visual Synthesis Module:** Interface for Stable Diffusion via HuggingFace Inference API or DeepAI API to generate, optimize, and store image assets.
 - **Scheduling & Automation System:** A time-based task runner that manages the queue for future posts and draft persistence.
 - **Media Hosting Manager:** Handles the storage and retrieval of AI-generated visuals.
 

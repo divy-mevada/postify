@@ -42,7 +42,7 @@ User submits idea → Backend processes request → AI generates content & visua
 - **AI Post Generator:** Generate complete post drafts from simple text prompts.
 - **Platform Adaptation:** Automatically re-format content for Instagram, LinkedIn, Twitter/X, and YouTube.
 - **Hashtag & Hook Generator:** Specialized tools for trending hashtags and high-conversion CTAs.
-- **AI Image Generation:** Integrated DALL-E/Stability integration for post-ready visuals.
+- **AI Image Generation:** Integrated Stable Diffusion via HuggingFace Inference API or DeepAI Image Generation API for post-ready visuals.
 - **Content Scheduling:** Integrated calendar system to automate future distribution.
 - **Post Management:** Save, edit, and organize all generated content in one dashboard.
 
@@ -58,7 +58,7 @@ Advanced scaling features will be implemented later.
 - **Frontend:** React (State-driven UI)
 - **Backend:** Django / Flask (RESTful API orchestration)
 - **AI Engine:** Google Gemini or OpenAI GPT-4 APIs
-- **Visuals:** DALL-E 3 / Stability AI APIs
+- **Image Generation:** Stable Diffusion via HuggingFace Inference API / DeepAI API
 - **Database:** PostgreSQL / SQLite
 - **Deployment:** Cloud Hosting (AWS/Vercel)
 
